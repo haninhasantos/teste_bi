@@ -9,7 +9,7 @@ Com base no conjunto de dados fornecido, selecionei as empresas que possuíam se
 Para importação dos dados, tratamento e exploração das camadas seguintes utilizei o BigQuery Sandbox. 
 Importei os arquivos csv diretamente no BQ criando tabelas idênticas aos arquivos recebidos e tratei essa camada como landing/bronze.
 
-![Image](https://github.com/user-attachments/assets/2f2438b7-4baf-4442-ad51-aef3103c2518)
+
 
 
 
@@ -26,7 +26,7 @@ Na camada seguinte, que seria equivalente a uma silver, fiz a higienização dos
 
 Na última camada eu tratei os dados transformando as tabelas em fato e dimensões para uma melhor visualização e entendimento dos dados no momento de construção das visualizações. 
 
-
+![Image](https://github.com/user-attachments/assets/2f2438b7-4baf-4442-ad51-aef3103c2518)
 
 
 
