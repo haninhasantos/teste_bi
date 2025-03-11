@@ -18,7 +18,7 @@ Importei os arquivos csv diretamente no BQ criando tabelas idênticas aos arquiv
 
 Na camada seguinte, que seria equivalente a uma silver, fiz a higienização dos arquivos levando em consideração a formatação dos dados, e desprezando registros poluídos, como por exemplo, cnpj’s com tamanho diferente de 14 caracteres. 
 
-
+![Image](https://github.com/user-attachments/assets/8acd38d6-28bb-4233-9356-2916d954be50)
 
 
 
