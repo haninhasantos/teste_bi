@@ -4,6 +4,8 @@ Teste Analista de BI
 Compartilho com vocês o resultado do meu teste desenvolvido com base nos arquivos enviados para análise. 
 Antes da construção das visualizações, primeiramente estudei cada uma das tabelas, para compreender a chave de relacionamento entre elas e quais seriam as tabelas de relacionamento N:1.
 
+![Image](https://github.com/user-attachments/assets/5f7c7f54-662a-4c76-83d5-6dbb981f2402)
+
 
 Com base no conjunto de dados fornecido, selecionei as empresas que possuíam segmento b3 associado e nas cotações selecionei um período de 9 meses contando entre setembro de 2021 e junho de 2022 para essas empresas de segmento b3.
 Para importação dos dados, tratamento e exploração das camadas seguintes utilizei o BigQuery Sandbox. 
